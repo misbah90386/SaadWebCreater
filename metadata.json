@@ -1,0 +1,6 @@
+{
+  "name": "Custom Website Request Form & Agency",
+  "description": "A premium, modern multi-step website request form and digital agency portal for ordering custom websites with rich feature selection, budget customization, and direct contact options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
